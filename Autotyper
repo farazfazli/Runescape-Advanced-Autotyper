@@ -21,7 +21,7 @@ tell application "System Events"
 		set DelayShort to 1.2
 		set DelayLong to 1.7
 	end if
-	if rapidity ≠ 4 then # Below is the coolest method ever. :)
+	if rapidity ≠ 4 then
 		set TxtCount to count (qtext)
 		set a to TxtCount * 0.2
 		set DelayShort to a + b
