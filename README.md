@@ -1,4 +1,4 @@
 Runescape-Advanced-Autotyper
 ============================
 
-Runescape Advanced Auto Typer
+Runescape Advanced Auto Typer written in Applescript.
